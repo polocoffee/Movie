@@ -219,28 +219,13 @@ Run ▶️
 </div>
 
 
-
-> Suggested folder structure:
-
-```
-screenshots/
-├── home.png
-├── popular.png
-├── upcoming.png
-└── detail.png
-```
-
 ---
 
 # 📌 Future Improvements
 
-* Search Movies
-* Favorite Movies
 * Dark Mode
 * Pagination
 * Offline Support
-* Movie Trailers
-* Cast Information
 * Similar Movies<img width="1280" height="2856" alt="Screenshot_20260814_145237" src="https://github.com/user-attachments/assets/0c789a22-7e37-456c-b66b-38009ecec7ab" />
 
 * Genre Filter
