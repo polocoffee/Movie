@@ -208,13 +208,14 @@ Run ▶️
 
 <div align="center">
 
-| Popular Screen                                  | Upcoming Screen                               |
+| Home Screen (Light Theme)                       | Detail Screen (Light Theme)                   |
 | ----------------------------------------------- | --------------------------------------------- |
-| <img width="1280" height="2856" alt="Screenshot_20260814_145151" src="https://github.com/user-attachments/assets/f1313556-8c41-4656-bf0d-3ac1ea570e78" /> | <img width="1280" height="2856" alt="Screenshot_20260814_145237" src="https://github.com/user-attachments/assets/9b063a10-5a46-474d-86d1-dfaa289ddfef" /> |
+| <img width="1280" height="2856" alt="Screenshot_20260911_131420" src="https://github.com/user-attachments/assets/30a46d69-708a-41d6-9082-3fcd1b95d486"/> | <img width="1280" height="2856" alt="Screenshot_20260911_131534" src="https://github.com/user-attachments/assets/0666909c-407d-4216-aee1-a34ed12e69b8" /> |
 
-| Detail Screen                                     | Home Screen (Light Theme)                             |
+| Home Screen (Dark Theme)                          | Detail Screen (Dark Theme)                            |
 | ------------------------------------------------- | ----------------------------------------------------- |
-| <img width="1280" height="2856" alt="Screenshot_20260814_145216" src="https://github.com/user-attachments/assets/ab856473-9858-4897-8096-e4857eea1621" /> | <img width="1280" height="2856" alt="Screenshot_20260814_145316" src="https://github.com/user-attachments/assets/987b423d-e378-4c29-b30b-9235b81e174a" /> |
+| <img width="1280" height="2856" alt="Screenshot_20260911_131452" src="https://github.com/user-attachments/assets/342ded84-21de-4e8f-885c-c7ccfcbc0eb4" />
+| <img width="1280" height="2856" alt="Screenshot_20260911_131509" src="https://github.com/user-attachments/assets/dea275fa-074e-4277-8cbf-2aeb4f0e2380" />|
 
 </div>
 
